@@ -1,0 +1,155 @@
+{
+  "serverMaxRevisionCounter": 64,
+  "sourceMembers": {
+    "ListView__Account_Assignment__c.All": {
+      "serverRevisionCounter": 6,
+      "lastRetrievedFromServer": 6,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "CustomField__Account_Assignment__c.Start_Date__c": {
+      "serverRevisionCounter": 29,
+      "lastRetrievedFromServer": 29,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Account_Assignment__c.End_Date__c": {
+      "serverRevisionCounter": 31,
+      "lastRetrievedFromServer": 31,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Account_Assignment__c.AccountRef__c": {
+      "serverRevisionCounter": 35,
+      "lastRetrievedFromServer": 35,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Account_Assignment__c.UserRef__c": {
+      "serverRevisionCounter": 39,
+      "lastRetrievedFromServer": 39,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Account_Assignment__c.Split__c": {
+      "serverRevisionCounter": 41,
+      "lastRetrievedFromServer": 41,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Account_Assignment__c.StatusPick__c": {
+      "serverRevisionCounter": 44,
+      "lastRetrievedFromServer": 44,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "Profile__Admin": {
+      "serverRevisionCounter": 5,
+      "lastRetrievedFromServer": 5,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Profile__tmp: Sales Manager": {
+      "serverRevisionCounter": 43,
+      "lastRetrievedFromServer": null,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Layout__Account_Assignment__c-Account Assignment Layout": {
+      "serverRevisionCounter": 61,
+      "lastRetrievedFromServer": 61,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "CustomObject__Account_Assignment__c": {
+      "serverRevisionCounter": 38,
+      "lastRetrievedFromServer": 38,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "CustomTab__Account_Assignment__c": {
+      "serverRevisionCounter": 4,
+      "lastRetrievedFromServer": 4,
+      "memberType": "CustomTab",
+      "isNameObsolete": false
+    },
+    "CustomApplication__Sales_Manager": {
+      "serverRevisionCounter": 25,
+      "lastRetrievedFromServer": 25,
+      "memberType": "CustomApplication",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Sales_Manager_UtilityBar": {
+      "serverRevisionCounter": 22,
+      "lastRetrievedFromServer": 22,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "PermissionSet__Sales_Manager_Base_Permission": {
+      "serverRevisionCounter": 28,
+      "lastRetrievedFromServer": 28,
+      "memberType": "PermissionSet",
+      "isNameObsolete": false
+    },
+    "AppMenu__AppSwitcher": {
+      "serverRevisionCounter": 23,
+      "lastRetrievedFromServer": 23,
+      "memberType": "AppMenu",
+      "isNameObsolete": false
+    },
+    "Settings__Account": {
+      "serverRevisionCounter": 46,
+      "lastRetrievedFromServer": 46,
+      "memberType": "Settings",
+      "isNameObsolete": false
+    },
+    "CustomField__AccountTeamMember.Is_Active__c": {
+      "serverRevisionCounter": 54,
+      "lastRetrievedFromServer": null,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__AccountTeamMember.Type__c": {
+      "serverRevisionCounter": 51,
+      "lastRetrievedFromServer": 51,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Account_Assignment__c.Is_Active__c": {
+      "serverRevisionCounter": 57,
+      "lastRetrievedFromServer": 57,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "Layout__AccountTeamMember-Account Team Member Layout": {
+      "serverRevisionCounter": 55,
+      "lastRetrievedFromServer": 55,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "GlobalValueSet__Account_Assignment_Type": {
+      "serverRevisionCounter": 50,
+      "lastRetrievedFromServer": 50,
+      "memberType": "GlobalValueSet",
+      "isNameObsolete": false
+    },
+    "CustomField__Account_Assignment__c.Unique_NameTrig__c": {
+      "serverRevisionCounter": 60,
+      "lastRetrievedFromServer": 60,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomIndex__Account_Assignment__c.Unique_NameTrig__c": {
+      "serverRevisionCounter": 63,
+      "lastRetrievedFromServer": 63,
+      "memberType": "CustomIndex",
+      "isNameObsolete": false
+    },
+    "Settings__Opportunity": {
+      "serverRevisionCounter": 64,
+      "lastRetrievedFromServer": 64,
+      "memberType": "Settings",
+      "isNameObsolete": false
+    }
+  }
+}
